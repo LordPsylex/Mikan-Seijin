@@ -2,6 +2,6 @@ Allows the old "Orange" screenmate from the Windows 95/98/xp era to run on moder
 
 Must install into "Program Files" not (x86) for the start menu shortcut to function.
 
-![Alt text](Untitled.png)
+![Local Image](Untitled.png)
 
-![Alt text](Untitled2.png)
+![Local Image](Untitled2.png)
